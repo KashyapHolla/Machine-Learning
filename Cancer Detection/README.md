@@ -1,7 +1,7 @@
-# Objective:
+## Objective:
 - Predicting if the cancer diagnosis is benign or malignant based on several observations/features.
 
-# Description:
+## Description:
 - 30 features are used, examples:
         - radius (mean of distances from center to points on the perimeter)
         - texture (standard deviation of gray-scale values)
@@ -21,5 +21,5 @@
          - Malignant
          - Benign 
 
-# Dataset:
+## Dataset:
 - https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
