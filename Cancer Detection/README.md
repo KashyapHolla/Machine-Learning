@@ -1,6 +1,10 @@
 ## Objective:
 - Predicting if the cancer diagnosis is benign or malignant based on several observations/features.
 
+( Malignant: Malignant means that the tumor is made of cancer cells, and it can invade nearby tissues.
+
+   Benign: Benign means that the tumor does not invade nearby tissue or spread to other parts of the body.)
+
 ## Description:
 - 30 features are used, examples:
         - radius (mean of distances from center to points on the perimeter)
