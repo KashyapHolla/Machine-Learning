@@ -6,9 +6,9 @@
 
 The data consists of 5 columns:
 
-* variance of Wavelet Transformed image (continuous)
-* skewness of Wavelet Transformed image (continuous)
-* curtosis of Wavelet Transformed image (continuous)
-* entropy of image (continuous)
+* variance of Wavelet Transformed image (continuous)(Image.Var)
+* skewness of Wavelet Transformed image (continuous)(Image.Skew)
+* curtosis of Wavelet Transformed image (continuous)(Image.Curt)
+* entropy of image (continuous)(Entropy)
 * class (integer)
 , where class indicates whether or not a Bank Note was authentic.
