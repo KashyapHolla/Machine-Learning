@@ -2,6 +2,8 @@
 
 * The purpose of this project is to classify bank notes into two classes (Authentic and Fake)
 
+  { Random Forest Classifier has been used for this purpose }
+
 ## Description:
 
 The data consists of 5 columns:
