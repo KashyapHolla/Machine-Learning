@@ -6,7 +6,7 @@
 
 ## Description:
 
-The data consists of 5 columns:
+The data consists of 5 columns:-
 
 * Variance of Wavelet Transformed image (continuous)(Image.Var)
 * Skewness of Wavelet Transformed image (continuous)(Image.Skew)
