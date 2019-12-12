@@ -1,6 +1,6 @@
 ## Objective:
 
-   In the project, we work with Ecommerce Customers csv file from a company. The objective is to analyse the data given and to identify whether to focus the efforts on building a mobile application or developing a website. 
+   In the project, we work with Ecommerce Customers csv file of a company. The objective is to analyse the data given and to identify whether to focus the efforts on building a mobile application or developing a website. 
 
 ## Description:
   
